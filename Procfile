@@ -1,0 +1,1 @@
+web: java -jar target/bankdetails-0.0.1.jar
