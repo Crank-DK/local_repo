@@ -25,4 +25,4 @@
 /.nb-gradle/
 
 # exlude env files
-src\main\resources\*.properties
+src\main\resources\application.properties
